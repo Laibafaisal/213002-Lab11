@@ -1,0 +1,15 @@
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.csproj.AssemblyReference.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\MainWindow.g.cs
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\App.g.cs
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2_MarkupCompile.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2_MarkupCompile.lref
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\bin\Debug\213002-L11Ex2.exe.config
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\bin\Debug\213002-L11Ex2.exe
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\bin\Debug\213002-L11Ex2.pdb
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\MainWindow.baml
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.g.resources
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\_213002_L11Ex2.Properties.Resources.resources
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.csproj.GenerateResource.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.exe
+C:\Users\KH Faisal\source\repos\213002-L11Ex2\obj\Debug\213002-L11Ex2.pdb

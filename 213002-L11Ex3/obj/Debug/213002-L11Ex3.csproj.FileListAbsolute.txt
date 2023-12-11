@@ -1,0 +1,5 @@
+C:\Users\KH Faisal\source\repos\213002-L11Ex3\obj\Debug\213002-L11Ex3.csproj.AssemblyReference.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex3\obj\Debug\MainWindow.g.cs
+C:\Users\KH Faisal\source\repos\213002-L11Ex3\obj\Debug\App.g.cs
+C:\Users\KH Faisal\source\repos\213002-L11Ex3\obj\Debug\213002-L11Ex3_MarkupCompile.cache
+C:\Users\KH Faisal\source\repos\213002-L11Ex3\obj\Debug\213002-L11Ex3_MarkupCompile.lref
